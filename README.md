@@ -1,4 +1,3 @@
-# Learning-Data-Analysis-
 # Data Analysis Learning Journey
 
 ## About This Repository
