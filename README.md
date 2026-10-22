@@ -30,9 +30,6 @@ This repository documents my journey of learning data analysis using Python. I w
 ## Tools I'm Learning
 - Python
 - pandas
-- NumPy
-- Matplotlib
-- Jupyter Notebook
 - GitHub
 
 ## Goal
