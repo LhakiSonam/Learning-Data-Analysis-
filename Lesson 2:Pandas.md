@@ -38,6 +38,7 @@ data = {
 df = pd.DataFrame(data)
 
 print(df)
+<img width="591" height="291" alt="Screenshot 2026-10-22 at 3 14 31 PM" src="https://github.com/user-attachments/assets/b4a8a776-9b25-4e8e-9a7a-8663f7a9bee7" />
 
 ```
 
@@ -160,6 +161,8 @@ df["Result"] = df["Marks"].apply(
     lambda mark: "Pass" if mark >= 60 else "Fail"
 )
 ```
+<img width="582" height="225" alt="Screenshot 2026-10-22 at 3 16 15 PM" src="https://github.com/user-attachments/assets/6a9fb83d-d4f5-4d00-b96d-7e711074836e" />
+
 
 This assigns "Pass" when marks are at least 60 and "Fail" otherwise.
 
