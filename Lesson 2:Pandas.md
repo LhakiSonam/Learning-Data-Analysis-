@@ -38,9 +38,9 @@ data = {
 df = pd.DataFrame(data)
 
 print(df)
-<img width="591" height="291" alt="Screenshot 2026-10-22 at 3 14 31 PM" src="https://github.com/user-attachments/assets/b4a8a776-9b25-4e8e-9a7a-8663f7a9bee7" />
 
 ```
+<img width="591" height="291" alt="Screenshot 2026-10-22 at 3 14 31 PM" src="https://github.com/user-attachments/assets/b4a8a776-9b25-4e8e-9a7a-8663f7a9bee7" />
 
 Output:
 
