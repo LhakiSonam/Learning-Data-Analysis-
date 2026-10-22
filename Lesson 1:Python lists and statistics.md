@@ -1,3 +1,4 @@
+
 # Lesson 1: Understanding and Analyzing Data
 
 ## 1. What Is a Dataset?
@@ -31,6 +32,7 @@ marks = [65, 80, 72, 90, 58]
 print(marks)
 ```
 
+
 **Output:**
 
 ```text
@@ -52,6 +54,7 @@ print("Average:", sum(marks) / len(marks))
 print("Highest:", max(marks))
 print("Lowest:", min(marks))
 ```
+<img width="1470" height="956" alt="Screenshot 2026-10-22 at 3 06 00 PM" src="https://github.com/user-attachments/assets/cddfe206-7cfb-47da-8598-ac40aab1e4d5" />
 
 **Output:**
 
@@ -62,6 +65,8 @@ Average: 73.0
 Highest: 90
 Lowest: 58
 ```
+<img width="1450" height="912" alt="Screenshot 2026-10-22 at 3 06 39 PM" src="https://github.com/user-attachments/assets/28b673e0-15e7-4ee9-a808-3684d4d51ca9" />
+
 
 ### Understanding the Functions
 
