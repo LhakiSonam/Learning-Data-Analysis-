@@ -42,13 +42,6 @@ A bar graph uses rectangular bars to compare different categories of data.
 - Comparing students' marks.
 - Comparing sales of different products.
 - Comparing the number of people in different groups.
- 
-  ```python
-  plt.bar(df["Student"], df["Marks"])
-  plt.title("Students' Mathematics Marks")
-  plt.xlabel("Students")
-  plt.ylabel("Marks")
-  plt.show()
 
 <img width="1468" height="480" alt="Screenshot 2026-11-05 at 10 04 53 AM" src="https://github.com/user-attachments/assets/a71d6bee-9d7d-49b0-a993-10f41817d112" />
 
@@ -62,19 +55,12 @@ A line graph uses points connected by lines to show changes over time.
 - Tracking temperature changes.
 - Showing students' progress in tests.
 - Observing changes in population over time.
+- 
+<img width="1437" height="444" alt="Screenshot 2026-11-05 at 10 09 55 AM" src="https://github.com/user-attachments/assets/13c206d4-7ab9-49ec-b5dd-18f315dc011e" />
 
-  ```python
-  tests = [1, 2, 3, 4, 5]
-  marks = [55, 65, 70, 80, 90]
+<img width="1042" height="568" alt="Screenshot 2026-11-05 at 10 10 18 AM" src="https://github.com/user-attachments/assets/8ca6b278-66af-4db1-9c4b-684cab3265d9" />
 
-  plt.plot(tests, marks, marker="o")
 
-  plt.title("Student's Progress")
-  plt.xlabel("Test Number")
-  plt.ylabel("Marks")
-
-  plt.show()
-  
 
 ### C. Pie Chart
 A pie chart is a circular graph divided into sections. Each section represents a proportion of the whole.
@@ -84,6 +70,10 @@ A pie chart is a circular graph divided into sections. Each section represents a
 - Representing how a budget is divided.
 - Comparing different categories as parts of a whole.
 
+  <img width="1082" height="357" alt="Screenshot 2026-11-05 at 10 10 58 AM" src="https://github.com/user-attachments/assets/12b6ecf9-5f26-4930-bf4e-033f43fdafa7" />
+
+  <img width="1203" height="474" alt="Screenshot 2026-11-05 at 10 11 15 AM" src="https://github.com/user-attachments/assets/2aadd5c0-dfb5-4faa-b7a1-37c0eb202dad" />
+
 ### D. Histogram
 A histogram represents the distribution of numerical data using bars. It helps us understand how frequently values occur within different ranges.
 
@@ -91,6 +81,10 @@ A histogram represents the distribution of numerical data using bars. It helps u
 - Understanding the distribution of students' marks.
 - Analyzing age groups.
 - Studying examination results.
+  <img width="1410" height="674" alt="Screenshot 2026-11-05 at 10 13 41 AM" src="https://github.com/user-attachments/assets/918b4261-e41e-4f2e-b7b0-120361059eb8" />
+
+<img width="1191" height="508" alt="Screenshot 2026-11-05 at 10 13 59 AM" src="https://github.com/user-attachments/assets/d2eba48b-ddd4-45f1-ae9a-c12734b75694" />
+
 
 ## 5. Choosing the Right Graph
 
