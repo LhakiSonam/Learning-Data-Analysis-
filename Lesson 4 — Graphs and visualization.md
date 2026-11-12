@@ -104,3 +104,6 @@ Data visualization is an important part of data analysis because it allows us to
 ## My Project Visualization
 <img width="1463" height="865" alt="Screenshot 2026-11-12 at 9 56 08 AM" src="https://github.com/user-attachments/assets/46922943-7fd6-404f-8c0a-23e03bfa8c3f" />
 
+##Histogram
+<img width="1452" height="820" alt="Screenshot 2026-11-12 at 10 01 49 AM" src="https://github.com/user-attachments/assets/38cc61d1-80b4-4eb8-907c-89e8314a2e95" />
+
