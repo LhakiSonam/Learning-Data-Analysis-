@@ -1,4 +1,4 @@
-# Lesson 5 — Complete a Data Analysis Project
+# Lesson 5 — Data Analysis Project
 
 ## 1. Introduction
 
