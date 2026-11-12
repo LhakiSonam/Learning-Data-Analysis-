@@ -100,3 +100,7 @@ Different graphs are used for different purposes:
 ## 6. Conclusion
 
 Data visualization is an important part of data analysis because it allows us to present information in a visual and understandable way. By using Python libraries such as Pandas and Matplotlib, we can create different graphs to explore data, identify patterns, and communicate our findings.
+
+## My Project Visualization
+<img width="1463" height="865" alt="Screenshot 2026-11-12 at 9 56 08 AM" src="https://github.com/user-attachments/assets/46922943-7fd6-404f-8c0a-23e03bfa8c3f" />
+
